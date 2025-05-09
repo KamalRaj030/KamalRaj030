@@ -1,4 +1,4 @@
-# 👋 Kamal Raj 🚀 | Data Analyst: Transforming Data into Decisions 📍
+# 👋 Kamal Raj 🚀 | Data Analyst: Transforming Data into Decisions
 
 ## 🎯 About Me: Your Data-Driven Problem Solver
 
