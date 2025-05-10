@@ -1,7 +1,7 @@
 
 # Kamal Raj | Data Analyst Making Business Decisions with Data Insights
 
-Hello! I am Kamal Raj, Data Analyst who loves giving life to raw data in the form of young and usable insights to take strategic decisions. My specialty is guiding end to end process of data from data cleaning in **SQL**/**Python** to visualizing database in persuasive visual narratives with **Power BI**, **Excel**. I'm very good at finding veins of gold in deep, raw bytes through scientific **EDA** and **mining**, learning, and teaching predictive models using **stats**, efficient data flow using **ETL**. I also have a strong focused curiosity around the possibilities of **machine learning (ML)** and **artificial intelligence (AI)** for amplifying analysis.
+With 2 years of experience as a Data Analyst, I'm passionate about bringing raw data to life to help drive smart decisions. I guide the entire data journey, from cleaning and preparing data using SQL and Python, to creating clear and persuasive visuals with Power BI and Excel. I enjoy uncovering key insights through Exploratory Data Analysis (EDA), understanding and explaining predictive models using statistics, and building efficient ETL workflows. I'm also keenly interested in exploring the potential of machine learning (ML) and artificial intelligence (AI) to enhance analysis.
 
 ## Key Skills: Using Your Data To Ensure Success
 
